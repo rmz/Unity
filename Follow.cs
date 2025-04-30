@@ -1,3 +1,4 @@
+//NPC follows player
 using UnityEngine;
 
 public class Follow : MonoBehaviour
