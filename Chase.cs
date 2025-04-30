@@ -1,4 +1,5 @@
-﻿// https://youtu.be/gXpi1czz5NA - Unity 5 tutorials that still works
+//Enemy is idle, player approaches, walks to player and attacks
+// https://youtu.be/gXpi1czz5NA - Unity 5 tutorials that still works
 // A more advanced version of this tutorial is available on Unity Learn
 // https://learn.unity.com/tutorial/chasing-the-player
 
